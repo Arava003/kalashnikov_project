@@ -5,17 +5,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f8cc3275-20cb-4740-9568-e98067f05cda" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img1_save.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img2_save.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kontur_detali_save_2.2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kontur_detali_save_2.3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kontur_detali_save_2.4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kontur_detali_save_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kontur_detali_save_some.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/new.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Шаблон для Нейро для защиты.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Camera Roll/b1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Camera Roll/b2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Camera Roll/b3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Camera Roll/b4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Camera Roll/b5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Camera Roll/b6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Camera Roll/b7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Camera Roll/b8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Camera Roll/q1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Camera Roll/q2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Camera Roll/q3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Camera Roll/q4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Camera Roll/q5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Camera Roll/q6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Camera Roll/s1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Camera Roll/s2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Camera Roll/s3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Camera Roll/s4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Camera Roll/s5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Camera Roll/s6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/saves_cont2/q1_cont2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/saves_cont2/q2_cont2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/saves_cont2/q3_cont2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/saves_cont2/q4_cont2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/saves_cont2/q5_cont2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/saves_cont2/q6_cont2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_size.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/untitled.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/untitled.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aaaaa" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/image.py" beforeDir="false" afterPath="$PROJECT_DIR$/image.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Шаблон для Нейро для защиты.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/Шаблон для Нейро для защиты.pptx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,9 +68,19 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/a.v.filatov/PycharmProjects/untitled&quot;
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/PycharmProjects/kalashnikov_project/Camera Roll&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\kalashnikov_project\Camera Roll" />
+      <recent name="C:\Users\User\PycharmProjects\kalashnikov_project" />
+    </key>
+  </component>
   <component name="RunManager" selected="Python.image">
     <configuration name="image" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="untitled" />
@@ -136,6 +169,17 @@
     </task>
     <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
